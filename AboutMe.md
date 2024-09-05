@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizzzav
-- 👀 I’m interested in programming and designing
-- 🌱 I’m currently learning Java 
-- 📫 Instagram @rizzzav, X @rizzzav, Email me at @rishavkmr1111@gmail.com 
+- 👀 I’m interested in programming and designing softwares
+- 🌱 I’m currently learning Java for Android Development
+- 📫 Instagram @rizzzav, X @rizzzav
 
 
 <!---
