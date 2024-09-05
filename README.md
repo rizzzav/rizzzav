@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rizzzav
-- 👀 I’m interested in software programming and designing
-- 🌱 I’m currently learning Java and Android Development
-- 📫 X - @rizzzav, Instagram - @rizzzav
+
 
 
 <!---
